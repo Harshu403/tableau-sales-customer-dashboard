@@ -119,15 +119,6 @@ Users can filter data by:
 
 ---
 
-## 📁 Project Structure
-
-├── Tableau Workbook (.twbx)
-├── Dataset (if applicable)
-├── README.md
-└── Screenshots / Demo (optional)
-
----
-
 ## 📌 How to Use
 1. Open the Tableau workbook in Tableau Desktop or Tableau Public  
 2. Use filters and dropdowns to explore data  

@@ -1,1 +1,1 @@
-# tableau-sales-cuatomer-dashboard
+# tableau-sales-customer-dashboard
